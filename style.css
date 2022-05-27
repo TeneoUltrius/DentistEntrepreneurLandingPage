@@ -251,6 +251,10 @@ li {
     margin-bottom: 20px;
 }
 
+#section-text p {
+    text-align: justify;
+}
+
 .bold-text {
     font-weight: 800;
 }
@@ -286,6 +290,7 @@ li {
 
 #blog-text p {
     font-size: .9em;
+    text-align: justify;
 }
 
 #blog-text img {
@@ -364,6 +369,10 @@ li {
     display: flex;
     align-items: center;
     justify-content: space-between;
+}
+
+#watermark {
+    width: auto;
 }
 
 
