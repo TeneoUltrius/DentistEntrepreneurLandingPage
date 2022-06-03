@@ -6,6 +6,10 @@
     --highlightcolor: rgba(255, 221, 0, 0.981);
 }
 
+html {
+    scroll-behavior: smooth;
+  }
+
 *,
 *:before,
 *:after {
